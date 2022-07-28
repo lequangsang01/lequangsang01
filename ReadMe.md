@@ -20,7 +20,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://24hstore.vn/huong-dan-ky-thuat/chup-anh-gif-luu-lai-nhung-khoanh-khac-tuyet-voi-n2732" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lequangsang01&icon=0&color=0)](https://visitcount.itsvg.in)
