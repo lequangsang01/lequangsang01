@@ -89,10 +89,10 @@ Tôi tốt nghiệp thủ khoa ngành **Trí tuệ nhân tạo & Thị giác má
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=lequangsang01&theme=radical&hide_border=true" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=lequangsang01&theme=radical" width="97%" />
 </p>
 
 ---
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=lequangsang01&icon=0&color=0" alt="Visitor Count">
+  <img src="https://komarev.com/ghpvc/?username=lequangsang01&color=0055ff&style=flat-square" alt="Visitor Count">
 </p>
