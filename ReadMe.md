@@ -78,12 +78,12 @@ Tôi tốt nghiệp thủ khoa ngành **Trí tuệ nhân tạo & Thị giác má
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lequangsang01&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lequangsang01&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=lequangsang01&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=lequangsang01&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lequangsang01&theme=radical&hide_border=true" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=lequangsang01&theme=radical&hide_border=true" width="97%" />
 </p>
 
 ---
