@@ -1,5 +1,5 @@
 # Hi there, I'm Sang! 👋
-### 🚀 Senior Full-Stack & AI Systems Architect | High-Value Bounty Hunter
+### 🚀 Senior Full-Stack & AI Systems Architect
 
 [![Website](https://img.shields.io/badge/Portfolio-0055FF?style=flat-square&logo=react&logoColor=white)](https://sangledev.vercel.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:quangsangle.hn@gmail.com)
