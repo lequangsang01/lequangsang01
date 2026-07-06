@@ -10,15 +10,7 @@
 
 I am a Senior Software Engineer and System Architect with a strong academic foundation in **Artificial Intelligence & Computer Vision** (graduated with **Highest Honors, GPA 3.61** from Electric Power University). 
 
-I specialize in auditing complex codebases, resolving critical performance bottlenecks, integrating state-of-the-art AI models, and architecting robust, scalable distributed systems. My focus is on resolving complex engineering challenges, making me highly effective in high-value bounty hunts, protocol optimizations, and rapid-response bug fixing.
-
----
-
-## 🎯 Bounty Hunt & Consulting Focus
-* **System Bottleneck Auditing:** Identifying and resolving memory leaks, race conditions, and query performance issues in enterprise backends.
-* **AI Pipeline Engineering:** Custom integration of open-source LLMs (Llama, DeepSeek), real-time computer vision (YOLOv11), and efficient vector search.
-* **API Integration & Automation:** Hardening and wrapping complex enterprise APIs (Salesforce, Facebook Marketing, Google Ads) into robust message queues.
-* **Smart App & Web Security:** Auditing authentication flows, data leakage vectors, and optimizing Web/Mobile clients (Flutter, React Native, NextJS).
+I specialize in auditing complex codebases, resolving critical performance bottlenecks, integrating state-of-the-art AI models, and architecting robust, scalable distributed systems. My focus is on designing highly optimized software architectures, automating enterprise workflows, and delivering high-impact production solutions.
 
 ---
 
@@ -58,19 +50,14 @@ I specialize in auditing complex codebases, resolving critical performance bottl
 <summary><b>🌐 Click here for Vietnamese Version / Bản tiếng Việt</b></summary>
 <br />
 
-### 🚀 Kỹ sư Hệ thống & AI Senior | Chuyên gia Giải quyết Thử thách Bounty
+### 🚀 Kỹ sư Hệ thống & AI Senior | Senior Full-Stack & AI Systems Architect
 
-Tôi tốt nghiệp thủ khoa ngành **Trí tuệ nhân tạo & Thị giác máy tính (GPA 3.61)** tại Đại học Điện Lực. Là một Kỹ sư Hệ thống có tư duy giải quyết vấn đề sắc bén, tôi tập trung vào việc tối ưu hiệu năng hệ thống, kiểm thử mã nguồn tìm lỗi bảo mật, tích hợp AI tối tân và tối ưu hóa hạ tầng phân tán.
+Tôi tốt nghiệp thủ khoa ngành **Trí tuệ nhân tạo & Thị giác máy tính (GPA 3.61)** tại Đại học Điện Lực. Là một Kỹ sư Hệ thống có tư duy giải quyết vấn đề sắc bén, tôi tập trung vào việc tối ưu hiệu năng hệ thống, kiểm thử mã nguồn tìm lỗi bảo mật, tích hợp AI tối tân và xây dựng hạ tầng phân tán chất năng cao cho doanh nghiệp.
 
-#### 🎯 Thế mạnh săn Bounty & Tư vấn giải pháp:
-* **Kiểm tra và Tối ưu hệ thống:** Phát hiện và khắc phục rò rỉ bộ nhớ (memory leaks), tranh chấp tài nguyên (race conditions), và truy vấn cơ sở dữ liệu chậm.
-* **Kỹ nghệ luồng xử lý AI:** Tích hợp mô hình ngôn ngữ lớn (Llama, DeepSeek), thị giác máy tính thời gian thực (YOLOv11), và tìm kiếm vector hiệu năng cao.
-* **Kiểm thử An toàn thông tin:** Rà soát lỗ hổng xác thực, chống rò rỉ dữ liệu trên Web và các ứng dụng di động (Flutter, React Native).
-
-#### 📈 Dự án thực chiến nổi bật:
-* **Camera-Count (AI Warehouse):** Hệ thống camera AI đếm pallet đa góc dựa trên hình học 3D, giải quyết bài toán vật thể bị che khuất.
-* **Meeting Transcription Nagase:** Nền tảng chuyển đổi giọng nói thành văn bản cuộc họp tự động, đồng bộ hóa an toàn dữ liệu với hệ thống Salesforce.
-* **Enterprise Procurement ERP:** Hệ thống mua sắm chuỗi cung ứng quy mô lớn, tối ưu hóa xử lý nền bằng Redis và hàng đợi Celery.
+#### ⚡ Tóm tắt năng lực chính:
+* **Trí tuệ nhân tạo:** Chuyên sâu về Thị giác máy tính (YOLOv11, OpenCV, PyTorch), Xử lý âm thanh (Audio-to-Text), Tích hợp LLM Open-source (Llama, DeepSeek) và điều phối AI Agent (n8n, Hermes-agent).
+* **Phát triển Full Stack:** Thiết kế, xây dựng hệ thống toàn diện từ Frontend (React, Vue 3, NextJS) đến Backend (Laravel, Django, .NET Core) và Mobile (Flutter, React Native).
+* **DevOps & Hạ tầng:** Triển khai hệ thống phân tán sử dụng Docker, Redis, Celery, kiến trúc hàng đợi (Queue/Scheduler), và hạ tầng Cloud (AWS, GCP, Cloudflare).
 </details>
 
 ---
